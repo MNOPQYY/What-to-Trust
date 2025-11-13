@@ -1,2 +1,4 @@
 # What-to-Trust
-What to Trust? A Trust-aware Knowledge-guided Method for Zero-shot \\Object State Understanding in Videos
+What to Trust? A Trust-aware Knowledge-guided Method for Zero-shot Object State Understanding in Videos
+
+The code will be available soon.
